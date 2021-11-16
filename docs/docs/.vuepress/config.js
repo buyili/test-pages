@@ -1,7 +1,7 @@
 module.exports = {
     title: 'Api Generator Plus',
     description: '',
-    base: '/api-generator-plus/',
+    base: '/test-pages/',
     themeConfig: {
         logo: '/assets/img/logo.png',
         nav: [

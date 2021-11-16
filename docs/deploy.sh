@@ -20,6 +20,6 @@ git commit -m 'deploy'
 # git push -f git@github.com:<USERNAME>/<USERNAME>.github.io.git master
 
 # 如果发布到 https://<USERNAME>.github.io/<REPO>
-git push -f git@github.com:<buyili>/<api-generator-plus>.git develop:gh-pages
+git push -f git@github.com:<buyili>/<test-pages>.git develop:gh-pages
 
 cd -
